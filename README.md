@@ -17,7 +17,7 @@
 
 ## 🎯 Overview
 
-PDF Q&A Chatbot is a production-ready Retrieval-Augmented Generation (RAG) application that enables natural language interactions with PDF documents. Built with a focus on modularity and scalability, this system demonstrates practical implementation of vector embeddings, semantic search, and LLM orchestration.
+PDF Q&A Chatbot is a production-style Retrieval-Augmented Generation (RAG) application that enables natural language interactions with PDF documents. Built with a focus on modularity and scalability, this system demonstrates practical implementation of vector embeddings, semantic search, and LLM orchestration.
 
 ### Key Highlights
 
@@ -99,9 +99,9 @@ PDF Q&A Chatbot is a production-ready Retrieval-Augmented Generation (RAG) appli
 | **Language** | Python 3.8+ |
 | **Framework** | Streamlit |
 | **LLM Orchestration** | LangChain |
-| **Vector Store** | FAISS |
+| **Vector Store** | FAISS | 
 | **Embeddings** | OpenAI `text-embedding-ada-002` |
-| **LLM** | OpenAI GPT-3.5/4 |
+| **LLM** | OpenAI GPT-3.5/4 |                            (The application can also be adapted to use local models (e.g., Ollama) to avoid API usage)
 | **PDF Processing** | PyPDF2 / pdfplumber |
 
 ---
@@ -364,4 +364,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ by [Aditya Raj](https://github.com/adityarghh)
 
 </div>
+
 
