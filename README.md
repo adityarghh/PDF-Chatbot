@@ -322,8 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Aditya Raj**
 
 - GitHub: [@adityarghh](https://github.com/adityarghh)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Portfolio: [Your Portfolio Website](#)
+- LinkedIn: [@Aditya Raj](www.linkedin.com/in/aditya-raj-79a53b314)
 
 ---
 
@@ -365,3 +364,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ by [Aditya Raj](https://github.com/adityarghh)
 
 </div>
+
