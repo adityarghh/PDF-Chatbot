@@ -34,7 +34,7 @@ if uploaded_file:
             api_key=os.getenv("OPENAI_API_KEY")
         )
 
-        # 🔍 Retrieve relevant chunks
+        
         docs = vectorstore.similarity_search(question, k=4)
         context = "\n\n".join(doc.page_content for doc in docs)
 
