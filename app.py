@@ -2,7 +2,7 @@ import os
 import streamlit as st
 from dotenv import load_dotenv
 
-st.set_page_config(page_title="PDF Chatbot")
+st.set_page_config(page_title="DocuQuery")
 
 st.write("App is running ...")
 
@@ -12,8 +12,8 @@ from helper import load_pdf, split_text, create_vectorstore
 
 load_dotenv()
 
-st.set_page_config(page_title="PDF Chatbot")
-st.title("📄 PDF Chatbot")
+
+st.title("📄 DocuQuery")
 
 uploaded_file = st.file_uploader("Upload a PDF", type="pdf")
 
