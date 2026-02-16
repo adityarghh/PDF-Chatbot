@@ -1,4 +1,4 @@
-# 📚 PDF Q&A Chatbot
+# 📚 DocuQuery
 
 <div align="center">
 
@@ -364,5 +364,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ by [Aditya Raj](https://github.com/adityarghh)
 
 </div>
+
 
 
